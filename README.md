@@ -3,6 +3,10 @@ Adobe Creative Cloud Running in a Bottle
 
 This is a backup of a Bottle I created with Google Antigravity using Gemini 3.1 Pro High. 
 
+Watch my video demo here: 
+
+Download the bottle here: https://drive.google.com/file/d/1IH6tActF0XWApFE7aO3FXxhhnSkQCcms/view?usp=sharing
+
 1. Creative Cloud Desktop is install and working.
   a. Sometimes the Creative Cloud Desktop wont responding to mouse after initialization of the app hub. The workaround is to run 
   "C:\Users\Jeremy\Desktop\Launch_Creative_Cloud.bat" from the command line. 
